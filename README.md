@@ -111,15 +111,15 @@ flowchart TD
 ## 🛠️ How to Explore the Project
 
 1. **SQL Database Setup**:
-   - Execute [`Group1_AdventureWorks.sql`](Group1_AdventureWorks.sql) in MySQL Workbench or your favorite SQL client to recreate the consolidated database and run analytical queries.
+   - Execute [`sql/Group1_AdventureWorks.sql`](sql/Group1_AdventureWorks.sql) in MySQL Workbench or your favorite SQL client to recreate the consolidated database and run analytical queries.
 2. **Excel Data Model**:
-   - Open [`Group1_Adventure_project_Excel.xlsx`](Group1_Adventure_project_Excel.xlsx) to review the formula-driven data model, pivot tables, and visualizations.
+   - Open [`dashboards/Group1_Adventure_project_Excel.xlsx`](dashboards/Group1_Adventure_project_Excel.xlsx) to review the formula-driven data model, pivot tables, and visualizations.
 3. **Power BI Dashboard**:
-   - Open [`Group1_AdventureWorks_PowerBI.pbix`](Group1_AdventureWorks_PowerBI.pbix) in Microsoft Power BI Desktop to interact with slicers, cross-filtering, and DAX measures.
+   - Open [`dashboards/Group1_AdventureWorks_PowerBI.pbix`](dashboards/Group1_AdventureWorks_PowerBI.pbix) in Microsoft Power BI Desktop to interact with slicers, cross-filtering, and DAX measures.
 4. **Tableau Storyboard**:
-   - Open [`Group1_AdventureWorks_tableau.twbx`](Group1_AdventureWorks_tableau.twbx) in Tableau Desktop or Tableau Reader to inspect custom charts and geospatial maps.
+   - Open [`dashboards/Group1_AdventureWorks_tableau.twbx`](dashboards/Group1_AdventureWorks_tableau.twbx) in Tableau Desktop or Tableau Reader to inspect custom charts and geospatial maps.
 5. **Executive Summary**:
-   - Open [`Group_1 Adventure Works Sales Analysis.pptx`](Group_1%20Adventure%20Works%20Sales%20Analysis.pptx) for the slide-deck presentation.
+   - Open [`dashboards/Group_1 Adventure Works Sales Analysis.pptx`](dashboards/Group_1%20Adventure%20Works%20Sales%20Analysis.pptx) for the slide-deck presentation.
 
 ---
 
